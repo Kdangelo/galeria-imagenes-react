@@ -2,7 +2,7 @@ const Footer = () => {
   return (
     <div>
       <hr/>
-      <h3>Todos los derechos reservados</h3>
+      <h4 className="colorFont">Galería de imágenes de mujeres del mundo.</h4>
     </div>
   );
 }
